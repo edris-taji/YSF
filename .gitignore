@@ -1,0 +1,16 @@
+# OS / editor files
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Local tooling and private notes (not part of the website)
+.claude/
+AUDIT-REPORT.md
+REDESIGN-REPORT.md
+*.log
+
+# Never commit secrets (the site needs none)
+.env
+.env.*
